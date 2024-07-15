@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+}
+
+/* animation of cards of dashboard page */
+
+.card:hover{
+    box-shadow: 1px 1px 10px var(--blue);
+    cursor: pointer;
+    transform: scale(1.1);
+    transform: rotate(1deg);
+    box-shadow: 1px 1px 10px rgb(15, 87, 231);
+}
